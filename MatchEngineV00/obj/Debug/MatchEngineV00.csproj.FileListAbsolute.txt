@@ -1,0 +1,7 @@
+C:\Users\brch\source\repos\MatchEngineV00\MatchEngineV00\bin\Debug\MatchEngineV00.exe.config
+C:\Users\brch\source\repos\MatchEngineV00\MatchEngineV00\bin\Debug\MatchEngineV00.exe
+C:\Users\brch\source\repos\MatchEngineV00\MatchEngineV00\bin\Debug\MatchEngineV00.pdb
+C:\Users\brch\source\repos\MatchEngineV00\MatchEngineV00\obj\Debug\MatchEngineV00.csprojAssemblyReference.cache
+C:\Users\brch\source\repos\MatchEngineV00\MatchEngineV00\obj\Debug\MatchEngineV00.csproj.CoreCompileInputs.cache
+C:\Users\brch\source\repos\MatchEngineV00\MatchEngineV00\obj\Debug\MatchEngineV00.exe
+C:\Users\brch\source\repos\MatchEngineV00\MatchEngineV00\obj\Debug\MatchEngineV00.pdb
